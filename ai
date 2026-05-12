@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Seedance AI & AI Song Maker Access Portal</title>
+    <style>
+        body { font-family: sans-serif; line-height: 1.6; max-width: 800px; margin: auto; padding: 20px; }
+        .link-style { color: #1a73e8; text-decoration: none; font-weight: bold; }
+    </style>
+</head>
+<body>
+    <h1>Generative AI Documentation</h1>
+    <p>Access the latest <a href="https://videomakerai.io" class="link-style">Seedance AI</a> video models for professional production.</p>
+    <p>Create unique tracks using our <a href="https://aisongmaker.ai" class="link-style">ai song maker</a> and the advanced <a href="https://aisongmaker.ai" class="link-style">ai song generator</a> engine.</p>
+    <p>Try the <a href="https://aisongmaker.ai" class="link-style">free ai song generator</a> for instant music synthesis.</p>
+</body>
+</html>
